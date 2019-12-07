@@ -1,0 +1,15 @@
+log(10)
+exp(1)
+exp(2)
+log(exp(1))
+log(exp(2))
+log10(2)
+log10(100)
+log(100,base = 10)
+log2(4)
+sqrt(16)
+pi
+sin(pi/2)
+cos(pi/3)
+tan(pi/4)
+

@@ -1,0 +1,17 @@
+round(2.3)
+round(2.6)
+round(2.5)
+floor(3.3)
+floor(3.6)
+ceiling(5.7)
+ceiling(5.2)
+ceiling(5)
+floor(6)
+round(6)
+sqrt(-1)
+y=2
+y
+y<-4
+y
+c<-2
+c

@@ -1,0 +1,20 @@
+#Vectorised Arithmetic
+#Part-7
+weight<-c(50,12,80,45)
+weight
+seq(0,11,length=11)
+y<-1:10
+y
+x<-seq(0,1,length=6)
+x
+z<-c(x,1:10,100)
+z
+weight*2
+height<-c(2,4,5,9)
+weight/height
+weight*height
+log(weight)
+1:10+c(0,5)
+sum(height)
+length(height)
+mean(height)

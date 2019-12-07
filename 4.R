@@ -1,0 +1,17 @@
+y=2
+y
+print(y)
+y<-6
+y
+name<-"ChamiViews"
+name
+1name1=20
+@hhh=20
+firstName="Chamod"
+first-name="ChamiViews"
+first_name="Chamod"
+first_name
+eye(3)
+A={12:30}
+A
+str(A)
